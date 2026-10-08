@@ -65,7 +65,7 @@ text
 
 | Control Flow | Data Flow |
 |--------------|-----------|
-| ![Control Flow](#) | ![Data Flow](#) |
+| ![Control Flow](docs/control%20flow.png) | ![Data Flow](#) |
 
 > *Add your own screenshots of the Control Flow and Data Flow here.*
 
